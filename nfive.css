@@ -441,8 +441,16 @@ h2{
 html{
   font-size: 13px;
 }
-
-
+.content1{
+ top: -0px;
+}
+.content2{
+  top: -0;
+}
+.content{
+  position: absolute;
+  left: 250px;
+}
 .home .container-images {
   display: none;
 }
